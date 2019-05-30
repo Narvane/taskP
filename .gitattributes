@@ -1,2 +1,5 @@
-# Auto detect text files and perform LF normalization
+* text=auto
+$ cat .gitattributes
+*.js linguist-language=Python
+*.css linguist-language=Python# Auto detect text files and perform LF normalization
 * text=auto
